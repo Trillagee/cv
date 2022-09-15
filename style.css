@@ -1,17 +1,17 @@
 p {
 
-  color: Gold;
+  color:#DA0037;
 
 }
 
 h1 {
 
-color: Gold;
+color:#DA0037;
 }
 
 * {
 
-background-color: purple;
+  background-color: #191919;
 
 }
 
@@ -21,13 +21,67 @@ height:500px;
 
  }
 
+ li {
+  color: #FFAC41;
 
-#table-1{
-padding-left: 750px;
-margin-top: -500px;
+
+ }
+
+tr {
+
+color: #;
+
 
 }
 
-#content {
-  padding-top: 475px
+#thdates{
+
+  color: #FFAC41;
+
+}
+
+#strongAnime{
+
+  color: #FFAC41;
+}
+
+
+h3{
+
+color:#B52B65;
+
+
+}
+
+
+strong{
+
+  color:#C060A1;
+
+}
+
+em{
+
+color:#DA0037;
+
+}
+
+th{
+
+color: #FFAC41;
+
+}
+
+
+td{
+
+  color: #FFAC41;
+
+}
+
+.container{
+
+width: 400px;
+height 225px;
+
 }
